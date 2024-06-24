@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Alessandra Érika👋
 
+#### About
+
+At the moment, I'm a Senior Cobol Developer, and I'm studying Full Stack Development at [Rocketseat](https://www.rocketseat.com.br/)
+
+#### Current Stack
+- Languages: `Cobol 6.0` , `JavaScript`
+- Backend: `NodeJs`
+- Frontend: `HTML5`, `CSS3`, `JavaScript`, `ReactJs`
+
+ 
 <!--
 **Ale-erika/Ale-erika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
