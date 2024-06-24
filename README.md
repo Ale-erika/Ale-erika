@@ -8,6 +8,16 @@ At the moment, I'm a Senior Cobol Developer, and I'm studying Full Stack Develop
 - Languages: `Cobol 6.0` , `JavaScript`
 - Backend: `NodeJs`
 - Frontend: `HTML5`, `CSS3`, `JavaScript`, `ReactJs`
+- Layout Design : `Figma`
+- Version Code Control: `Git` e `Github`
+- Tools: `VSCode`
+
+#### Contacts
+
+- Email: ale.erika.cs@gmail.com
+- Linkedin: https://www.linkedin.com/in/alerikacsilva/
+
+
 
  
 <!--
